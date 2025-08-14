@@ -53,8 +53,8 @@ const updateTaskContainer = () => {
           <p><strong>Title:</strong> ${title}</p>
           <p><strong>Date:</strong> ${date}</p>
           <p><strong>Description:</strong> ${description}</p>
-          <button onclick="editTask(this)" type="button" class="btn">Edit</button>
-          <button onclick="deleteTask(this)" type="button" class="btn">Delete</button> 
+          <button onclick="editTask(this)" type="button" class="btn edit-btn">Edit</button>
+          <button onclick="deleteTask(this)" type="button" class="btn delete-btn">Delete</button> 
         </div>
       `;
   });
