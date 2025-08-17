@@ -3,13 +3,9 @@
 A simple and interactive **To-Do List Application** built as part of the [FreeCodeCamp JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) curriculum.  
 This project focuses on **JavaScript fundamentals** such as DOM manipulation, event handling, and **localStorage** for persistent data.
 
-## 📸 New Version Preview
+## 📸 Preview
 
 ![Todo App Preview](preview.webp)
-
-## 📸 New Version Preview
-
-![Old Version Todo App Preview](old_preview.webp)
 
 ## 📌 Features
 
